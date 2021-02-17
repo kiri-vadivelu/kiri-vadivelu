@@ -4,10 +4,10 @@
 
 <br/>
 
- 🔭 Working on advanced front-end projects.
- 🌱 Learning to become a full stack master. 
- 💬 Ask me about ... Anything, pretty much. 
- ⚡ Fun fact: Addicted to minimalism.  
+ 🔭 Working on advanced front-end projects. <br/>
+ 🌱 Learning to become a full stack master. <br/>
+ 💬 Ask me about ... Anything, pretty much. <br/>
+ ⚡ Fun fact: Addicted to minimalism.  <br/>
 
 <br/>
 
