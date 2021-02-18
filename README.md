@@ -2,16 +2,13 @@
 
 ## Designer, Developer and Innovator of Digital Space!!!
 
-<br/>
-
  🔭 Working on advanced front-end projects. <br/>
  🌱 Learning to become a full stack master. <br/>
  💬 Ask me about ... Anything, pretty much. <br/>
  ⚡ Fun fact: Addicted to minimalism.  <br/>
 
-<br/>
-
 ### Cause & Contributions:
+
 Love my city, love my people but hate poverty and homelessness. <br/>
 If you would like to contribute to the good cause, www.acorncanada.org. <br/>
 
