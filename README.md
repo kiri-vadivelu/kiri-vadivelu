@@ -10,14 +10,9 @@
  
 ### Problems & Solutions
 
-Anyone can build websites but not all are web engineers. <br/>
-Resulting in inefficient & insecure sites with unlimited frustrations. <br/>
-Great solutions come in small packages at www.digitaldesigners.ca.
-
-### Cause & Contributions:
-
-Love my city, love my people but hate poverty and homelessness. <br/>
-If you would like to contribute to the good cause www.acorncanada.org. <br/>
+Anyone can build websites but not all are web engineers by default. <br/>
+Resulting in thousands of inefficient sites with unlimited frustrations. <br/>
+But, great solutions come in small packages at www.digitaldesigners.ca.
 
 ### Languages & Tools:
 
@@ -28,6 +23,11 @@ If you would like to contribute to the good cause www.acorncanada.org. <br/>
 
 <br/>
 <br/>
+
+### Cause & Contributions:
+
+Love my city, love my people but hate poverty and homelessness. <br/>
+If you would like to contribute to the good cause www.acorncanada.org. 
 
 ### Statistics
 
