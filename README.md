@@ -29,7 +29,7 @@ If you would like to contribute to the good cause www.acorncanada.org. <br/>
 <br/>
 <br/>
 
-### Summary Details
+### Summary
 
 <details>
   <summary>:zap: GitHub Stats</summary>
