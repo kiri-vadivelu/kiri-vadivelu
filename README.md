@@ -1,4 +1,4 @@
-### Bonjour, its Kiri :) from Toronto
+### Bonjour, its Kiri from Toronto :)
 
 ## I'm a Designer, Developer and Innovator of Digital Space!!!
 
