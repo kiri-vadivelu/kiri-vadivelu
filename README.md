@@ -12,7 +12,7 @@
 
 Anyone can build websites but not all are web engineers. <br/>
 Resulting in inefficient & insecure sites with unlimited frustrations. <br/>
-Solutions comes in packages at www.digitaldesigners.ca.
+Great solutions come in small packages at www.digitaldesigners.ca.
 
 ### Cause & Contributions:
 
