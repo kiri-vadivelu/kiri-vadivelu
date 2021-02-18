@@ -4,7 +4,7 @@
 
  🔭 Working on advanced front-end projects. <br/>
  🌱 Learning to become a full stack master. <br/>
- 💬 Ask me about ... Anything, pretty much. <br/>
+ 💬 Ask me about ... Anything, LOL. <br/>
  ⚡ Fun fact: Addicted to minimalism.  <br/>
  
  
