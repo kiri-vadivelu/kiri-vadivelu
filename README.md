@@ -10,8 +10,8 @@
  
 ### Problems & Solutions
 
-Anyone can build websites but not all are web engineers.
-Resulting in inefficient & insecure sites with unlimited frustrations. 
+Anyone can build websites but not all are web engineers. <br/>
+Resulting in inefficient & insecure sites with unlimited frustrations. <br/>
 Solutions comes in packages at www.digitaldesigners.ca.
 
 ### Cause & Contributions:
