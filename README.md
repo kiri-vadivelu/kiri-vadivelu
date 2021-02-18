@@ -6,6 +6,13 @@
  🌱 Learning to become a full stack master. <br/>
  💬 Ask me about ... Anything, pretty much. <br/>
  ⚡ Fun fact: Addicted to minimalism.  <br/>
+ 
+ 
+### Problems & Solutions
+
+Anyone can build websites but not all are web engineers.
+Resulting in inefficient & insecure sites with unlimited frustrations. 
+Solutions comes in packages at www.digitaldesigners.ca.
 
 ### Cause & Contributions:
 
