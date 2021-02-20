@@ -27,7 +27,7 @@ But, great solutions come in small packages at www.digitaldesigners.ca.
 ### Cause & Contributions:
 
 Love my city, love my people but hate poverty and homelessness. <br/>
-If you would like to contribute to the good cause at www.acorncanada.org. 
+If you would like to contribute to the good cause, please join www.acorncanada.org. 
 
 ### Statistics
 
