@@ -2,17 +2,17 @@
 
 ## Designer, Developer and Innovator of Digital Space!!!
 
- 🔭 Working on advanced front-end projects. <br/>
- 🌱 Learning to become a full stack master. <br/>
- 💬 Ask me about ... Anything, LOL. <br/>
- ⚡ Fun fact: Addicted to minimalism.  <br/>
+ 🔭 Working on advanced front-end projects <br/>
+ 🌱 Learning to become a full stack master <br/>
+ 💬 Ask me about ... Anything, LOL <br/>
+ ⚡ Fun fact: Addicted to minimalism  <br/>
  
  
 ### Problems & Solutions
 
 Anyone can build websites but not all are web engineers by default. <br/>
 Resulting in thousands of inefficient sites with unlimited frustrations. <br/>
-But, great solutions come in small packages at www.digitaldesigners.ca.
+But, great solutions come in small packages at www.digitaldesigners.ca. 
 
 ### Languages & Tools:
 
@@ -45,8 +45,9 @@ If you would like to contribute to the good cause, please join www.acorncanada.o
 
 </details>
 
-[website]: https://digitaldesigners.ca
-[facebook]: https://facebook.com/designbydigital
-[instagram]: https://www.instagram.com/designbydigital
-[linkedin]: https://linkedin.com/company/designbydigital
-[twitter]: https://twitter.com/designbydigital
+### Learn More
+#### Contact
+[Website](https://digitaldesigners.ca) | [Email](mailto:hello@digitaldesigners.ca) | [Instagram](https://instagram.com/designbydigital)
+
+#### Follow
+[Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) 
