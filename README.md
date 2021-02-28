@@ -47,7 +47,7 @@ If you would like to contribute to the good cause, please join www.acorncanada.o
 
 ### Learn More
 #### Contact
-[Website](https://digitaldesigners.ca) | [Email](mailto:hello@digitaldesigners.ca) | [Instagram](https://instagram.com/designbydigital)
+[Website](https://digitaldesigners.ca) | [Email](mailto:kiri@digitaldesigners.ca) | [Instagram](https://instagram.com/kiri_vadivelu)
 
 #### Follow
-[Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) 
+[Twitter](https://twitter.com/kiri_vadivelu) | [Facebook](https://facebook.com/kiri_vadivelu) | [LinkedIn](https://linkedin.com/in/kirivelu) 
