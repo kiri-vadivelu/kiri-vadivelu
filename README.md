@@ -50,4 +50,4 @@ If you would like to contribute to the good cause, please join www.acorncanada.o
 [Website](https://digitaldesigners.ca) | [Email](mailto:kiri@digitaldesigners.ca) | [Instagram](https://instagram.com/kiri_vadivelu)
 
 #### Follow
-[Twitter](https://twitter.com/kiri_vadivelu) | [Facebook](https://facebook.com/kiri_vadivelu) | [LinkedIn](https://linkedin.com/in/kirivelu) 
+[Twitter](https://twitter.com/kiri_vadivelu) | [Facebook](https://facebook.com/kiri_vadivelu) | [LinkedIn](https://linkedin.com/in/kiri-vadivelu) 
